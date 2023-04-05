@@ -1,0 +1,16 @@
+﻿  Animal.cpp
+C:\Users\TIMICI\OneDrive\Desktop\UTCN\prev\1 Year\2 Semester\IA\ZoooMania\Animal.cpp(8,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TIMICI\OneDrive\Desktop\UTCN\prev\1 Year\2 Semester\IA\ZoooMania\Animal.cpp(9,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TIMICI\OneDrive\Desktop\UTCN\prev\1 Year\2 Semester\IA\ZoooMania\Animal.cpp(10,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TIMICI\OneDrive\Desktop\UTCN\prev\1 Year\2 Semester\IA\ZoooMania\Animal.cpp(11,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TIMICI\OneDrive\Desktop\UTCN\prev\1 Year\2 Semester\IA\ZoooMania\Animal.cpp(13,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TIMICI\OneDrive\Desktop\UTCN\prev\1 Year\2 Semester\IA\ZoooMania\Animal.cpp(29,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Aquatic.cpp
+  Birthday.cpp
+  Flying.cpp
+  Hospital.cpp
+  Interface.cpp
+  Terrestrial.cpp
+  ZoooMania.cpp
+  Generating Code...
+  ZoooMania.vcxproj -> C:\Users\TIMICI\OneDrive\Desktop\UTCN\prev\1 Year\2 Semester\IA\ZoooMania\Debug\ZoooMania.exe
